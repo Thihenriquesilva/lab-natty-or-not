@@ -45,7 +45,10 @@ Aqui você vai explorar, junto comigo, como essas tecnologias podem turbinar sua
 - Gerar imagens únicas para ilustrar ideias.  
 - Transformar um conceito em algo apresentável e portfólio-ready.  
 
-
+-##Imagens geradas
+[![Fake or Natty](https://github.com/Thihenriquesilva/lab-natty-or-not/blob/main/20250916_2304_image.png)](https://github.com/Thihenriquesilva/lab-natty-or-not/blob/main/20250916_2304_image.png)
+[![Fake or Natty](https://github.com/Thihenriquesilva/lab-natty-or-not/blob/main/20250916_2304_image%20(1).png)](https://github.com/Thihenriquesilva/lab-natty-or-not/blob/main/20250916_2304_image%20(1).png)
+[![Fake or Natty](https://raw.githubusercontent.com/Thihenriquesilva/lab-natty-or-not/refs/heads/main/_af727db1-fe22-4c3f-ade0-d1fb2b19f672.jfif)](https://raw.githubusercontent.com/Thihenriquesilva/lab-natty-or-not/refs/heads/main/_af727db1-fe22-4c3f-ade0-d1fb2b19f672.jfif)
 ## 💭 Reflexão (Opcional)
 O maior desafio foi deixar o conteúdo o mais “natty” possível — ou seja, natural e humano.  
 Você consegue perceber que aqui teve ajuda da IA? Talvez sim… talvez não. 😉  
